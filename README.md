@@ -1,2 +1,2 @@
 # flutter-flutter_demo_1
-flutter模块aar方式集成到android原生项目中
+flutter模块maven方式集成到android原生项目中
